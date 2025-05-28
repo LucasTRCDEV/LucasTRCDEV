@@ -52,8 +52,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/LucasTRCDEV/LucasTRCDEV/output/snake.svg" alt="Snake animation" />
-
 ###
 
 <img align="Center" src="https://profile-counter.glitch.me/LucasTRCDEV/count.svg?"  />
